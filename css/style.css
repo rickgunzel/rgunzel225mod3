@@ -1,0 +1,76 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    font-size: 25px;
+    background-color:  #000000;
+    color: #ffff00;
+}
+
+tr{
+    font-size: 25px;
+    color: #000000;
+    
+}
+
+div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: threedlightshadow;
+    background-color:rgba(5,0,0,0.3);
+     /* For IE8 and earlier */
+}
+#quoteDiv{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    background-color: threedlightshadow;
+    background-color:rgba(5,0,0,0.3);
+     /* For IE8 and earlier */
+}
+#quoteTable,td{
+    background-color: threedlightshadow;
+    background-color:rgba(5,0,0,0.5);
+    color: #ffff00;
+}
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    
+}
+h1,h3{
+    font-size: 25px;
+    font-weight: bold;
+    color: #000000;
+    
+    
+}
+.dimensions{
+    margin-top: 10%;
+}
+form{
+    text-align: center;
+    color: #000000;
+}
+#title{
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.thanks{
+  color: #fcf518;  
+    
+}
+.error{
+    color: #d70d07;  
+}
+.errors{
+    color: #fcf518; 
+    background-color:rgba(5,0,0,0.8);  
+}
